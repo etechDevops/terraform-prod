@@ -2,7 +2,7 @@ variable "ENV" {
 }
 
 variable "INSTANCE_TYPE" {
-  default = "t2.medium"
+  default = "t2.micro"
 }
 
 variable "PUBLIC_SUBNETS" {
